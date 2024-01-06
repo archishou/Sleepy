@@ -1,3 +1,5 @@
-int main() {
+#include "types.h"
+
+i32 main() {
 
 }
